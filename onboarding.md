@@ -1,4 +1,4 @@
-# 🍬 Day 1 Onboarding Guide — Engineering
+# 🍬 Day 1 Onboarding Guide — Tech
 
 **Company:** Candy Corner Philippines Inc.
 **Role:** Engineering / Technical
