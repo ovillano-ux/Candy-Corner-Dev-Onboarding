@@ -10,7 +10,6 @@ Welcome to Candy Corner Philippines Inc.! This guide walks you through what to e
 - [Day 1 Schedule](#day-1-schedule-general-flow)
 - [Accounts & Access](#accounts--access-set-up-on-day-1)
 - [People You'll Meet](#people-youll-meet)
-- [Before Day 2](#before-day-2-homework)
 - [Tips for New Hires](#tips-for-new-hires)
 
 ---
