@@ -11,6 +11,7 @@ Welcome to Candy Corner Philippines Inc.! This guide walks you through what to e
 - [Accounts & Access](#accounts--access-set-up-on-day-1)
 - [People You'll Meet](#people-youll-meet)
 - [Tips for New Hires](#tips-for-new-hires)
+- [Dev Environment Setup](#dev-environment-setup)
 
 ---
 
@@ -48,6 +49,29 @@ Welcome to Candy Corner Philippines Inc.! This guide walks you through what to e
 - Company email & tools
 - HR / payroll system (SproutHR)
 - Dev environment / code repo access (Set up by the new hire)
+- VPN access (FortiClient) — see [Dev Environment Setup](#dev-environment-setup)
+- Database tools (SSMS, SQL Server Express) — see [Dev Environment Setup](#dev-environment-setup)
+
+---
+
+## Dev Environment Setup
+
+A member of your team will assist you in installing and configuring the following.
+
+### 1. VPN Connection (FortiClient)
+- Install **FortiClient VPN**.
+- Your team will provide the connection profile/server details and credentials.
+- Connect to the VPN whenever you need access to internal systems or resources not reachable from the open internet.
+
+### 2. SQL Server Express
+- Install **SQL Server Express**.
+- Your team will confirm the specific version to install and share any configuration steps.
+
+### 3. SQL Server Management Studio (SSMS)
+- Install **SSMS** to connect to and manage SQL Server databases.
+- Your team will guide you through connecting SSMS to the relevant local/dev database instance.
+
+> **Note:** Have a teammate nearby (in person or on a call) when setting these up for the first time — VPN and database configuration details are specific to Candy Corner's setup and aren't always self-explanatory.
 
 ---
 
